@@ -16,11 +16,11 @@
   <main_top_edit>배경 편집</main_top_edit>
   <main_top_sel_lang>언어 선택</main_top_sel_lang>
   <flyout_edit_title>배경 편집</flyout_edit_title>
-  <flyout_about_title>About</flyout_about_title>
+  <flyout_about_title>정보</flyout_about_title>
   <group_restore_default>기본값 복원</group_restore_default>
   <group_advanced_options>응용프로그램 설정</group_advanced_options>
   <group_authors_area>저자들</group_authors_area>
-  <group_about_area>About</group_about_area>
+  <group_about_area>정보</group_about_area>
   <browse_button>찾아보기</browse_button>
   <color_button>색상</color_button>
   <accet_color_button>현재 시스템 색상을 사용</accet_color_button>
