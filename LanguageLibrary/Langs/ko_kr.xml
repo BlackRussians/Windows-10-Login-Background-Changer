@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language>
-  <lang_name>Korean KR</lang_name>
+  <lang_name>Korean (KR)</lang_name>
   <title_error>오류</title_error>
   <title_info>정보</title_info>
   <title_warning>경고</title_warning>
@@ -19,7 +19,7 @@
   <flyout_about_title>About</flyout_about_title>
   <group_restore_default>기본값 복원</group_restore_default>
   <group_advanced_options>응용프로그램 설정</group_advanced_options>
-  <group_authors_area>저자들</group_authors_area>
+  <group_authors_area>개발자들</group_authors_area>
   <group_about_area>About</group_about_area>
   <browse_button>찾아보기</browse_button>
   <color_button>색상</color_button>
@@ -27,7 +27,7 @@
   <apply_changes_button>변경된 내용을 적용 하시겠습니까?</apply_changes_button>
   <restore_defaults_button>기본값 복원</restore_defaults_button>
   <restore_hero_button>Hero 복원</restore_hero_button>
-  <image_scale_Resolution>나의 해결</image_scale_Resolution>
+  <image_scale_Resolution>나의 해상도</image_scale_Resolution>
   <image_scale>이미지 크기조정</image_scale>
   <show_user_info>사용자 정보</show_user_info>
   <show_glyphs>문양</show_glyphs>
